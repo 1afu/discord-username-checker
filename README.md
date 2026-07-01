@@ -45,7 +45,7 @@ Simply launch the executable and choose a mode from the menu. The tool will hand
 
 ## Developer
 
-Developed by **@naoyaski**. For updates or support, contact me on Discord.
+Developed by **@pachii**. For updates or support, contact me on Discord in bio.
 
 
 ---
