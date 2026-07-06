@@ -679,7 +679,7 @@ func main() {
 	}
 
 	fmt.Println("\n  " + rgb(100, 100, 100) + "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" + X)
-	fmt.Printf("                                     %sdev by @pachii%s\n", rgb(150, 150, 150), X)
+	fmt.Printf("                                     %sdev by @ykgtteh%s\n", rgb(150, 150, 150), X)
 
 	fmt.Printf("\n  %s Select Mode:%s\n", rgb(0, 255, 128), X)
 
